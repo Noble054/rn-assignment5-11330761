@@ -28,5 +28,5 @@ npm install
 
 ## Screenshots
 
-![Home](.assets/home.png)
-![Settings](.assets/setting.jpg)
+![Home](./assets/home.png)
+![Settings](./assets/setting.jpg)
